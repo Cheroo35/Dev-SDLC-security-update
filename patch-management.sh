@@ -12,3 +12,5 @@ sudo apt-get autoclean
 
 #install docker
 sudo apt install docker.io -y
+#check CPU of server
+ls top
