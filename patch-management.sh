@@ -14,3 +14,6 @@ sudo apt-get autoclean
 sudo apt install docker.io -y
 #check CPU of server
 ls top
+
+#check number of CPU
+ls nproc
