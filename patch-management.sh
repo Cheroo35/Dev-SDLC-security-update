@@ -6,4 +6,6 @@ sudo apt-get upgrade -y
 
 #remove outdated packages
 sudo apt-get autoremove -y
+
+#auto clean the server
 sudo apt-get autoclean
