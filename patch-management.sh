@@ -9,3 +9,6 @@ sudo apt-get autoremove -y
 
 #auto clean the server
 sudo apt-get autoclean
+
+#install docker
+sudo apt install docker.io -y
