@@ -9,3 +9,6 @@ sudo apt-get autoremove -y
 
 #auto clean the server
 sudo apt-get autoclean
+
+#check CPU of server
+ls top
